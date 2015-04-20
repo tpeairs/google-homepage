@@ -1,2 +1,2 @@
-# google-homepage
-1st Odin Project
+Creating the Google Homepage
+http://www.theodinproject.com/web-development-101/html-css
