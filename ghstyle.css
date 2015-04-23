@@ -1,0 +1,100 @@
+ul#topnav {
+	position:fixed;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    right:0;
+}
+li {
+	display:inline-block;
+	padding:5px;
+	float:right;
+}
+div.center {
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	margin-top:-98px;
+	margin-left:-284.5px;
+}
+input{
+	width:521px;
+	height: 19px;
+	margin-bottom:6px;
+	outline:none;
+	border:none;
+}
+img#logo{
+	margin-left:100px;
+	width:269px;
+	height:95px;
+}
+img#mic{
+	width:17px;
+	height:21px;
+	position:relative;
+	margin-bottom:-7px;
+	margin-left:-3px;
+	margin-right:3px;
+	margin-top:3px;
+}
+div.box{
+	display:inline-block;
+	list-style-image:none;
+	margin:0;
+	padding:0;	
+	border: 1px solid #e4e4e4;
+
+}
+button#search{
+	padding: 8px;
+	border: 1px;
+	margin: auto;
+	width:95px;
+	height: 27px;
+	font-family: arial, sans-serif;
+	outline: 1px solid;
+	text-align: center;
+	font-size: 10px;
+	margin-top:20px;
+	position:absolute;
+	right:60%;
+}
+button#lucky{
+	padding: 8px;
+	border: 1px;
+	margin: auto;
+	width:100px;
+	height: 27px;
+	font-family: arial, sans-serif;
+	outline: 1px solid;
+	text-align: center;
+	font-size: 10px;
+	margin-top:20px;
+	position:absolute;
+	right:40%;
+}
+div#inputs{
+	width:571px;
+	height: 51px;
+}
+button#lucky{
+
+}
+ul#bottomlinks{
+	position: fixed;
+	bottom:0;
+	right:0;
+	left: 0;
+	margin-bottom:30px;
+	background-color:#f2f2f2;
+	border-top: 1px solid #e4e4e4;
+}
+span#leftbot{
+	position:fixed;
+	right:0;
+}
+span#rightbot{
+	position:fixed;
+	left:0;
+}
